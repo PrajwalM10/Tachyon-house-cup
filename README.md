@@ -2,6 +2,10 @@
 
 An interactive, cinematic 3D leaderboard for tracking points across four houses: **ALPHA**, **INFERNO**, **MATRIX**, and **LAYER**. The interface combines a Three.js arena with live standings, score history, sound effects, and animated visualisation modes.
 
+## 🚀 Live Demo
+
+Try the application here: [**TACHYON House Cup — Live Website**](https://prajwalm10.github.io/Tachyon-house-cup/)
+
 ## Features
 
 - Interactive 3D arena powered by Three.js
